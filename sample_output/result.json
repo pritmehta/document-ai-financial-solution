@@ -1,0 +1,3077 @@
+[
+  {
+    "doc_id": "172427893_3_pg11.png",
+    "fields": {
+      "dealer_name": "Odisha Agro Industries Corporation Ltd",
+      "model_name": "SWARAJ 744 FE",
+      "horse_power": null,
+      "asset_cost": 801815,
+      "signature": {
+        "present": true,
+        "bbox": [
+          876,
+          1438,
+          1008,
+          1493
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.75,
+    "processing_time_sec": 0.62,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172448470_3_pg15.png",
+    "fields": {
+      "dealer_name": "THE ORISSA AGRO INDUSTRIES CORPORATION LTD",
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 234865,
+      "signature": {
+        "present": true,
+        "bbox": [
+          1007,
+          1246,
+          1176,
+          1282
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.83,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172561841_pg1.png",
+    "fields": {
+      "dealer_name": "Odisha Agro Industries Corporation Ltd",
+      "model_name": "DI-745",
+      "horse_power": 50,
+      "asset_cost": 911769,
+      "signature": {
+        "present": true,
+        "bbox": [
+          848,
+          1291,
+          996,
+          1418
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 1.0,
+    "processing_time_sec": 0.8,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172615270_3_pg24.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 227507,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          206,
+          1278,
+          260,
+          1390
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.79,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172615659_4_pg18.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 495557,
+      "signature": {
+        "present": true,
+        "bbox": [
+          764,
+          1219,
+          964,
+          1393
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.63,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172653968_pg20.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 690000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          83,
+          1160,
+          802,
+          1262
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.66,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172655019_3_pg11.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 491335,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          0,
+          0,
+          1085,
+          1394
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.65,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172656573_1_pg4.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 760000,
+      "signature": {
+        "present": true,
+        "bbox": [
+          964,
+          1098,
+          1115,
+          1219
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.58,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172658339_1_pg46.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 591317,
+      "signature": {
+        "present": true,
+        "bbox": [
+          771,
+          1290,
+          1047,
+          1453
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.83,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172674674_2_pg26.png",
+    "fields": {
+      "dealer_name": "Odisha Agro Industries Corporation Ltd",
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 969983,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          410,
+          1342,
+          782,
+          1365
+        ]
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.69,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172675384_1_pg13.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          19,
+          64,
+          1181,
+          1438
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.66,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172676445_3_pg6.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          32,
+          50,
+          911,
+          1198
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.71,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172677667_2_pg30.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 39,
+      "asset_cost": 700000,
+      "signature": {
+        "present": true,
+        "bbox": [
+          730,
+          1474,
+          1131,
+          1573
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.6,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172679241_1_pg25.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 720000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          61,
+          32,
+          1130,
+          1493
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.65,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172679320_3_pg18.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 373400,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          98,
+          66,
+          208,
+          156
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.6,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172681541_2_pg30.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          903,
+          1283,
+          1086,
+          1455
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.92,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172682048_1_pg20.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 830000,
+      "signature": {
+        "present": true,
+        "bbox": [
+          994,
+          1227,
+          1042,
+          1335
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.64,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172684006_1_pg42.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          759,
+          993,
+          906,
+          1050
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.44,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172684055_1_pg35.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          856,
+          709,
+          892,
+          850
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.46,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172685774_2_pg31.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          41,
+          669,
+          1162,
+          1315
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.65,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172689968_1_pg14.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          40,
+          28,
+          1109,
+          1452
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.59,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172717541_1_pg17.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": "DI-745",
+      "horse_power": null,
+      "asset_cost": 290174,
+      "signature": {
+        "present": true,
+        "bbox": [
+          814,
+          1360,
+          929,
+          1450
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.59,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172723526_1_pg17.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 324012,
+      "signature": {
+        "present": true,
+        "bbox": [
+          781,
+          1196,
+          1071,
+          1302
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.64,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172726090_3_pg9.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 759000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          12,
+          1505,
+          1001,
+          1513
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.66,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172744044_2_pg27.png",
+    "fields": {
+      "dealer_name": "THE ORISSA AGRO INDUSTRIES CORPORATION LTD",
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          106,
+          1184,
+          1015,
+          1197
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.56,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172745711_3_pg8.png",
+    "fields": {
+      "dealer_name": "THE ORISSA AGRO INDUSTRIES CORPORATION LTD",
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 234865,
+      "signature": {
+        "present": true,
+        "bbox": [
+          867,
+          1205,
+          940,
+          1276
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.93,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172749341_2_pg28.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          47,
+          33,
+          1174,
+          1491
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.85,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172752186_1_pg9.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          811,
+          1165,
+          1051,
+          1337
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.84,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172756379_1_pg4.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 451001,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          57,
+          387,
+          993,
+          1289
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.58,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172759522_3_pg2.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          102,
+          578,
+          1183,
+          1426
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.79,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172761287_4_pg15.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 650000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          42,
+          25,
+          1122,
+          1407
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.99,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172761707_3_pg1.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          24,
+          28,
+          1124,
+          1327
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.69,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172764517_4_pg16.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          84,
+          37,
+          1135,
+          1385
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.75,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172804164_1_pg14.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          15,
+          44,
+          1050,
+          1443
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.63,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172808450_3_pg8.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          120,
+          1267,
+          277,
+          1327
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.47,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172808806_pg14.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 422103,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          9,
+          1342,
+          1244,
+          1424
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.65,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172809327_1_pg40.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 45,
+      "asset_cost": 800000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          127,
+          47,
+          1071,
+          1486
+        ]
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.55,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172810373_2_pg34.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 758675,
+      "signature": {
+        "present": true,
+        "bbox": [
+          781,
+          1346,
+          922,
+          1477
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.77,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172810838_3_pg4.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          587,
+          1167,
+          806,
+          1323
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.77,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172811933_2_pg24.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": "DI-745",
+      "horse_power": null,
+      "asset_cost": 700000,
+      "signature": {
+        "present": true,
+        "bbox": [
+          839,
+          1216,
+          1097,
+          1368
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.43,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172812976_1_pg17.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          774,
+          1388,
+          918,
+          1460
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.63,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172813220_3_pg6.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          192,
+          1562,
+          527,
+          1582
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.8,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172814053_pg5.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 422103,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          0,
+          1348,
+          1236,
+          1430
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.63,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172818806_3_pg4.png",
+    "fields": {
+      "dealer_name": "Odisha Agro Industries Corporation Ltd",
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 923637,
+      "signature": {
+        "present": true,
+        "bbox": [
+          951,
+          1323,
+          1173,
+          1450
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.66,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172819725_1_pg42.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 42,
+      "asset_cost": 750000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          83,
+          420,
+          1067,
+          1061
+        ]
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.51,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172820354_1_pg29.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 640000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          68,
+          1569,
+          432,
+          1615
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.41,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172822122_3_pg3.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 496002,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          66,
+          118,
+          1147,
+          1574
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.48,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172823208_1_pg45.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 298980,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          81,
+          444,
+          1166,
+          1472
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.75,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172823551_2_pg21.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 865006,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          105,
+          88,
+          209,
+          163
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.74,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172826770_1_pg14.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          914,
+          913,
+          1112,
+          983
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.48,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172827538_2_pg33.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 48,
+      "asset_cost": 1000000,
+      "signature": {
+        "present": true,
+        "bbox": [
+          904,
+          1528,
+          961,
+          1618
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.44,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172831872_1_pg4.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 865000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          100,
+          109,
+          203,
+          184
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.69,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172846075_3_pg11.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": "DI-745",
+      "horse_power": null,
+      "asset_cost": 493558,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          735,
+          413,
+          1118,
+          447
+        ]
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.77,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172847544_1_pg23.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 577548,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          59,
+          25,
+          1103,
+          1499
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.72,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172858047_3_pg3.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          56,
+          15,
+          983,
+          1115
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.59,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172861131_pg6.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 302000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          862,
+          703,
+          1073,
+          917
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.45,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172863544_2_pg20.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 389230,
+      "signature": {
+        "present": true,
+        "bbox": [
+          957,
+          1324,
+          1151,
+          1375
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.58,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172864137_2_pg27.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 389230,
+      "signature": {
+        "present": true,
+        "bbox": [
+          948,
+          1281,
+          1173,
+          1372
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.58,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172865861_2_pg30.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 389230,
+      "signature": {
+        "present": true,
+        "bbox": [
+          1011,
+          1244,
+          1153,
+          1332
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.55,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172901606_1_pg23.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          675,
+          1343,
+          855,
+          1522
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.62,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172903213_2_pg27.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 394650,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          47,
+          1330,
+          1110,
+          1569
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.6,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172903815_1_pg6.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 496001,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          79,
+          0,
+          1110,
+          1393
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.56,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172904174_pg2.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 24,
+      "asset_cost": 413304,
+      "signature": {
+        "present": true,
+        "bbox": [
+          781,
+          1524,
+          1199,
+          1646
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.45,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172921150_3_pg3.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 495557,
+      "signature": {
+        "present": true,
+        "bbox": [
+          737,
+          1211,
+          932,
+          1380
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.7,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172922192_2_pg35.png",
+    "fields": {
+      "dealer_name": "Odisha Agro Industries Corporation Ltd",
+      "model_name": null,
+      "horse_power": 46,
+      "asset_cost": 823870,
+      "signature": {
+        "present": true,
+        "bbox": [
+          830,
+          1468,
+          1072,
+          1548
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.75,
+    "processing_time_sec": 0.62,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172926676_2_pg34.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 41,
+      "asset_cost": 393920,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          39,
+          32,
+          1160,
+          1513
+        ]
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.86,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172926866_3_pg2.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 41,
+      "asset_cost": 809872,
+      "signature": {
+        "present": true,
+        "bbox": [
+          909,
+          1271,
+          1066,
+          1451
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.69,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172927528_pg22.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 620000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          80,
+          34,
+          1203,
+          1511
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.79,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172927572_1_pg18.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          232,
+          1459,
+          979,
+          1498
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.6,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172928152_2_pg34.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 25,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          26,
+          1545,
+          422,
+          1569
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.96,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172928246_1_pg23.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          162,
+          1193,
+          270,
+          1245
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.64,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172929532_1_pg7.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          344,
+          1187,
+          1169,
+          1354
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.53,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172929710_1_pg40.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 1054000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          166,
+          1261,
+          378,
+          1434
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.44,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172930953_3_pg2.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 25,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          520,
+          1501,
+          644,
+          1564
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 1.06,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172932638_3_pg1.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 373400,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          97,
+          68,
+          206,
+          157
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.59,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172934286_2_pg27.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 75,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          78,
+          37,
+          1177,
+          1459
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.89,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172934848_2_pg32.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 764059,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          102,
+          1119,
+          1113,
+          1426
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.9,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172935426_3_pg4.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 55,
+      "asset_cost": 1000000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          29,
+          166,
+          1185,
+          1309
+        ]
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.7,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172936612_3_pg1.png",
+    "fields": {
+      "dealer_name": "THE ORISSA AGRO INDUSTRIES CORPORATION LTD",
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 973999,
+      "signature": {
+        "present": true,
+        "bbox": [
+          1073,
+          1191,
+          1169,
+          1247
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.9,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172937945_3_pg8.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 241600,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          164,
+          1733,
+          779,
+          1748
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.9,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172938591_3_pg13.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 36,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          943,
+          1304,
+          1146,
+          1470
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 1.02,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172938736_1_pg21.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          951,
+          704,
+          1034,
+          957
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.71,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172939172_2_pg34.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          375,
+          42,
+          524,
+          102
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.53,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172939577_3_pg7.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 222597,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          226,
+          1333,
+          275,
+          1446
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.81,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172946013_2_pg23.png",
+    "fields": {
+      "dealer_name": "Odisha Agro Industries Corporation Ltd",
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 751007,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          55,
+          125,
+          145,
+          213
+        ]
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.67,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172960101_2_pg34.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          46,
+          34,
+          1160,
+          1409
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.84,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172960101_3_pg1.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 550000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          792,
+          615,
+          838,
+          921
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.84,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172960227_2_pg30.png",
+    "fields": {
+      "dealer_name": "Odisha Agro Industries Corporation Ltd",
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 666469,
+      "signature": {
+        "present": true,
+        "bbox": [
+          1016,
+          1512,
+          1153,
+          1582
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.69,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172960345_pg18.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 651000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          159,
+          398,
+          865,
+          442
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.7,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172961598_1_pg14.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          931,
+          37,
+          1019,
+          97
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.59,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172962352_3_pg9.png",
+    "fields": {
+      "dealer_name": "Odisha Agro Industries Corporation Ltd",
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          867,
+          1441,
+          938,
+          1525
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.66,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172963098_2_pg33.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 493118,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          60,
+          19,
+          1177,
+          1435
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.67,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172963371_2_pg33.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 23,
+      "asset_cost": 1600000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          68,
+          1148,
+          1130,
+          1398
+        ]
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.62,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172964354_1_pg40.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          0,
+          449,
+          1220,
+          1440
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.35,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172965689_pg3.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 24,
+      "asset_cost": 413304,
+      "signature": {
+        "present": true,
+        "bbox": [
+          783,
+          1526,
+          1202,
+          1649
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.45,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172966285_1_pg11.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          45,
+          25,
+          1179,
+          1420
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.82,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172968418_3_pg10.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 37,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          383,
+          24,
+          533,
+          100
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.53,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "172969750_2_pg32.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 815000,
+      "signature": {
+        "present": true,
+        "bbox": [
+          867,
+          998,
+          1198,
+          1165
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.54,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173061033_3_pg2.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 24,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          417,
+          1435,
+          804,
+          1479
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.97,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173064332_3_pg4.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          28,
+          48,
+          901,
+          1183
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.68,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173067949_1_pg17.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          909,
+          1370,
+          1082,
+          1447
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.49,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173070225_1_pg11.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 591309,
+      "signature": {
+        "present": true,
+        "bbox": [
+          871,
+          1215,
+          1027,
+          1375
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.53,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173074584_3_pg12.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          835,
+          671,
+          894,
+          965
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.86,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173078631_1_pg7.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 50,
+      "asset_cost": 740000,
+      "signature": {
+        "present": true,
+        "bbox": [
+          1006,
+          1343,
+          1091,
+          1456
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.6,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173104431_2_pg31.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          934,
+          1258,
+          1082,
+          1373
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.63,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173106837_1_pg41.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 450006,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          99,
+          330,
+          623,
+          506
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.92,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173115555_1_pg32.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          57,
+          1026,
+          962,
+          1088
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.74,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173134085_1_pg14.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          728,
+          1358,
+          853,
+          1404
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.58,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173140531_2_pg29.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": "DI-745",
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": true,
+        "bbox": [
+          928,
+          1358,
+          1159,
+          1514
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.52,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173145686_1_pg16.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          735,
+          120,
+          863,
+          166
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.98,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173146045_2_pg19.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          40,
+          7,
+          1110,
+          1446
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.55,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173152811_1_pg9.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          432,
+          711,
+          842,
+          1084
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.39,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173152903_2_pg33.png",
+    "fields": {
+      "dealer_name": "Odisha Agro Industries Corporation Ltd",
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 796202,
+      "signature": {
+        "present": true,
+        "bbox": [
+          824,
+          1266,
+          886,
+          1353
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.74,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173156632_2_pg22.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 698441,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          67,
+          43,
+          1160,
+          1382
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.68,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173175521_3_pg2.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          87,
+          20,
+          1118,
+          1475
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.54,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173177534_1_pg37.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          57,
+          1024,
+          963,
+          1085
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.72,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173186866_1_pg16.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          111,
+          463,
+          1074,
+          1624
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 0.4,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173208707_2_pg22.png",
+    "fields": {
+      "dealer_name": "Odisha Agro Industries Corporation Ltd",
+      "model_name": null,
+      "horse_power": 46,
+      "asset_cost": 823870,
+      "signature": {
+        "present": true,
+        "bbox": [
+          560,
+          1441,
+          1151,
+          1559
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.75,
+    "processing_time_sec": 0.59,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173210220_2_pg16.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 341302,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          632,
+          323,
+          1158,
+          495
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.9,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173215327_3_pg12.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 499000,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          98,
+          741,
+          1126,
+          1399
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.66,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173216984_2_pg34.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": 495677,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          59,
+          1268,
+          1128,
+          1451
+        ]
+      }
+    },
+    "confidence": 0.25,
+    "processing_time_sec": 0.74,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173221807_2_pg26.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": null,
+      "asset_cost": null,
+      "signature": {
+        "present": false,
+        "bbox": null
+      },
+      "stamp": {
+        "present": true,
+        "bbox": [
+          55,
+          33,
+          1180,
+          1468
+        ]
+      }
+    },
+    "confidence": 0.0,
+    "processing_time_sec": 1.0,
+    "cost_estimate_usd": 0.002
+  },
+  {
+    "doc_id": "173224947_2_pg17.png",
+    "fields": {
+      "dealer_name": null,
+      "model_name": null,
+      "horse_power": 39,
+      "asset_cost": 735000,
+      "signature": {
+        "present": true,
+        "bbox": [
+          808,
+          1549,
+          1204,
+          1680
+        ]
+      },
+      "stamp": {
+        "present": false,
+        "bbox": null
+      }
+    },
+    "confidence": 0.5,
+    "processing_time_sec": 0.62,
+    "cost_estimate_usd": 0.002
+  }
+]

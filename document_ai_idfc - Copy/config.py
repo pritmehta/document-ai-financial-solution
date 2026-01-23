@@ -1,0 +1,8 @@
+# config.py
+
+TESSERACT_LANGS = "eng+hin+guj"
+
+MIN_FUZZY_SCORE = 90
+
+MAX_PROCESSING_TIME_SEC = 30
+COST_PER_DOC_USD = 0.002
