@@ -4,18 +4,18 @@
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Financial institutions receive large volumes of scanned quotation documents (PDFs/images) for loan processing.  
 These documents are unstructured, noisy, and vary widely in layout, making manual verification slow and error-prone.
 
-## 🎯 Objective
+##  Objective
 
 Build an end-to-end **Document AI pipeline** that automatically extracts key financial fields from scanned quotation images and produces **structured JSON output with confidence scores**.
 
 ---
 
-## 🧠 System Overview
+##  System Overview
 
 The system processes raw document images and extracts:
 
@@ -31,7 +31,7 @@ Final output is saved as a machine-readable JSON file.
 
 ---
 
-## 🧩 Design Philosophy
+##  Design Philosophy
 
 > **Design once. Scale everywhere.**
 
@@ -39,7 +39,7 @@ The solution avoids hardcoding for specific documents and instead uses **generic
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Document Images
@@ -59,7 +59,7 @@ Structured JSON Output
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3.13
 - Tesseract OCR
@@ -69,7 +69,7 @@ Structured JSON Output
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 document_ai_idfc/
@@ -92,7 +92,7 @@ document_ai_idfc/
 
 ---
 
-## 🔍 Field Extraction Logic
+##  Field Extraction Logic
 
 ### Dealer Name
 
@@ -120,7 +120,7 @@ document_ai_idfc/
 
 ---
 
-## 📊 Confidence Scoring
+##  Confidence Scoring
 
 Confidence score (0–1) is computed using:
 
@@ -132,7 +132,7 @@ This makes the output suitable for downstream automation.
 
 ---
 
-## 📈 Dataset Usage Explanation
+##  Dataset Usage Explanation
 
 Although the dataset contains ~500 images, a **small representative subset** was initially used for:
 
@@ -144,7 +144,7 @@ Once validated, the **same pipeline was run on the entire dataset** without any 
 
 ---
 
-## 📄 PDF Support
+##  PDF Support
 
 The current pipeline processes scanned document images (PNG/JPG).
 
@@ -157,7 +157,7 @@ information extraction.
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### Option A: Using the submitted ZIP file (Recommended)
 
@@ -230,7 +230,7 @@ sample_output/result.json
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Place images in the `dataset/` folder
 2. Execute:
@@ -245,7 +245,7 @@ python executable.py
 sample_output/result.json
 ```
 
-## 🧪 Sample Output
+##  Sample Output
 
 ```
 json
@@ -263,7 +263,7 @@ json
 }
 ```
 
-## 📊 Bonus Analysis & Insights
+##  Analysis & Insights
 
 - Processing time per document is logged to enable performance benchmarking.
 - Confidence scores expose extraction reliability and act as a proxy for error rate.
@@ -272,7 +272,7 @@ json
 
 ---
 
-## ❗ Error Analysis
+##  Error Analysis
 
 Observed error categories include:
 
@@ -285,7 +285,7 @@ These are reflected in lowered confidence scores and null field outputs.
 
 ---
 
-## 🌟 Key Highlights
+## Key Highlights
 
 - Scales to hundreds of scanned documents
 - Robust against OCR noise
